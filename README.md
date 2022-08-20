@@ -1,13 +1,70 @@
 <h1 align="center">Hi 👋, I'm Alpha</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alphazinn" alt="alphazinn" /></a> </p>
+<div align="center">
+  
+  <a href="https://github.com/Alphazinn" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;"/>
+  </a>
+  
+  <a href="https://twitter.com/Alphazinnn" target="_blank">
+    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+  </a>
+  
+  <a href="https://stackoverflow.com/users/13709872/alpha" target="_blank">
+    <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+  </a>
+  
+  <a href="#" target="_blank">
+    <img src=https://img.shields.io/badge/discord-%237289D0.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;"/>
+  </a>
+  
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/Alpha#6422" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Alpha#6422" height="30" width="40" /></a>
+<div align="center">  
+  
 </p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alphazinn&show_icons=true&theme=dark&locale=en" alt="alphazinn" /></p>
+<div align="center">
+  
+  <p>
+    &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=alphazinn&show_icons=true&hide_border=true&hide_title=true&bg_color=1a1c1f&border_radius=10&theme=dark&locale=en" alt="alphazinn" />
+  </p>
+  
+</div>
+
+<h2 align="center">Languages And Tools</h2>
+
+<div align="center">
+ 
+  <img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/>
+  <img src="https://img.icons8.com/color/96/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/96/000000/bootstrap.png"/>
+  
+  <br>
+  
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-lua-is-a-lightweight-multi-paradigm-programming-language-logo-shadow-tal-revivo.png"/>
+  <img src="https://img.icons8.com/color/96/000000/javascript--v1.png"/>
+  <img src="https://img.icons8.com/color/96/000000/nodejs.png"/>
+  
+  <br>
+  
+  <img src="https://img.icons8.com/fluency/96/000000/mysql-logo.png"/>
+  <img src="https://img.icons8.com/color/96/000000/mongodb.png"/>
+  
+  <br>
+  
+  <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png"/>
+  <img src="https://img.icons8.com/color/96/000000/c-sharp-logo-2.png"/>
+  
+  <br>
+  
+  <img src="https://img.icons8.com/color/96/000000/adobe-photoshop--v1.png"/>
+  <img src="https://img.icons8.com/color/96/000000/adobe-illustrator--v1.png"/>
+  <img src="https://img.icons8.com/color/96/000000/adobe-fireworks--v2.png"/>
+  <img src="https://img.icons8.com/color/96/000000/adobe-premiere-pro--v1.png"/>
+  <img src="https://img.icons8.com/color/96/000000/adobe-after-effects--v1.png"/>
+  
+</div>
