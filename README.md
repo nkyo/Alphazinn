@@ -20,12 +20,13 @@
   
 </div>
 
-<div align="center">  
-  
-</p>
-</div>
-
 <br>
+
+<div align="center">  
+  <p>
+    <img src="https://discord.c99.nl/widget/theme-1/286171630370291712.png" alt="Discord">
+  </p>
+</div>
 
 <div align="center">
   
